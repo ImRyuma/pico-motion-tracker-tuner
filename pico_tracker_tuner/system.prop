@@ -1,0 +1,3 @@
+# Properties loaded very early by Magisk (before daemons start).
+# Use for ro.* / persist.* keys that a daemon reads only once at startup.
+# Empty by default: only add keys confirmed by investigation. Format: key=value

@@ -1,0 +1,3 @@
+# Scripts run on Android: LF line endings required
+* text=auto eol=lf
+*.zip binary

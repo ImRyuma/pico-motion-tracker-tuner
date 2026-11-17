@@ -1,0 +1,11 @@
+# Raw headset reports: contain serial numbers and device identifiers
+investigation/
+
+# The zip is published in GitHub Releases, not in the source tree
+*.zip
+
+# Module runtime state
+.smart.pid
+.smart.state
+.boot_count
+tuner.log

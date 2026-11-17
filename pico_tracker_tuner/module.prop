@@ -1,0 +1,6 @@
+id=pico_tracker_tuner
+name=Pico Motion Tracker Tuner
+version=v0.3.0
+versionCode=3
+author=ImRyuma
+description=Keeps Pico Motion Trackers awake in SteamVR when they stay still (smart mode), plus investigation and IR visibility tools.
